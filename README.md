@@ -1,19 +1,19 @@
 ## Meu projeto sobre o dia a dia de um QA
-## Criação de fluxo gramas de trabalho e ciclo de vida de bug
-## User stories
-## Cenários de testes
-## Casos de testes step-by-step e BDD
-## Ciclo de testes e monitoramento de bug
-## Mind-Maps
+## *Criação de fluxo gramas de trabalho e ciclo de vida de bug
+## *User stories
+## *Cenários de testes
+## *Casos de testes step-by-step e BDD
+## *Ciclo de testes e monitoramento de bug
+## *Mind-Maps
 <div align="center">
   
 </div>
 <div style="display: inline_block"><br>
-##Ferramentas de trabalho:
-  <img align="center" alt="Rafa-Js" height="30" width="60" src="https://media.jfrog.com/wp-content/uploads/2022/08/03010345/Atlassian-Jira-Logo-300x176.png">
-  <img align="center" alt="Rafa-HTML" height="30" width="80" src="https://smartbear-tm4j-prod-us-west-2-api-docs.s3-us-west-2.amazonaws.com/images/zs-logo.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://www.shutterstock.com/image-vector/mind-map-line-icon-filled-260nw-581853028.jpg">
+<h1>Ferramentas de trabalho: </h1>
+  <img align="center" alt="Rafa-Js" height="50" width="70" src="https://media.jfrog.com/wp-content/uploads/2022/08/03010345/Atlassian-Jira-Logo-300x176.png">
+  <img align="center" alt="Rafa-HTML" height="50" width="80" src="https://smartbear-tm4j-prod-us-west-2-api-docs.s3-us-west-2.amazonaws.com/images/zs-logo.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="80" width="80" src="https://www.shutterstock.com/image-vector/mind-map-line-icon-filled-260nw-581853028.jpg">
   
 </div>
   
