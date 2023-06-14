@@ -5,12 +5,6 @@
 ##### *Casos de testes step-by-step e BDD
 ##### *Ciclo de testes e monitoramento de bug
 ##### *Mind-Maps
-
-## Testes unitários - JUnit - Java
-
-<div align="left">
-  <a href="https://github.com/TatilaDurao/Testes-Unitarios-JUnit" target="_blank"><img src="https://junit.org/junit4/images/junit5-banner.png" height="50" width="120 target="_blank">Clique aqui..</a>
-</div>
 <div style="display: inline_block"><br>
 <h2>Ferramentas de trabalho: </h2>
   <img align="center" alt="Rafa-Js" height="60" width="90" src="https://media.jfrog.com/wp-content/uploads/2022/08/03010345/Atlassian-Jira-Logo-300x176.png">
@@ -19,10 +13,21 @@
   <img align="center" alt="Rafa-Python" height="80" width="80" src="https://www.shutterstock.com/image-vector/mind-map-line-icon-filled-260nw-581853028.jpg">
   
 </div>
-  
-  ##
+
+## Testes unitários - JUnit - Java
+
+<div align="left">
+  <a href="https://github.com/TatilaDurao/Testes-Unitarios-JUnit" target="_blank"><img src="https://junit.org/junit4/images/junit5-banner.png" height="50" width="120 target="_blank">Clique aqui..</a>
+</div>
+
+## Testes em Java utilizando Mocks   
+#### - Mocks, InjectMocks, Spy, Captor - ArgumentCaptor, .when.thenReturn(), doTrow()
+<div align="left">
+  <a href="https://github.com/TatilaDurao/Testes-Mocks" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:800/1*7w64vyBXihVBrjNBBOIF9g.png" height="70" width="120 target="_blank">Clique aqui..</a>
+</div>
  
 <div> 
+  <h2>Sobre mim </h2>
   <a href="https://www.youtube.com/channel/UCKYYqPJdFaIavQQRlaTCTmQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/biancaduraoferdes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/S55v3Ptd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
